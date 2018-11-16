@@ -1,1 +1,1 @@
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![img](https://ibb.co/bRJEAL)
