@@ -2,4 +2,4 @@
 
 > ### React.js + Next.js
 
-![image](https://preview.ibb.co/hifi4f/Screen-Shot-2018-11-16-at-11-21-57-PM.png)
+![image](https://preview.ibb.co/b2NQ0L/Screen-Shot-2018-11-17-at-2-08-07-AM.png)
