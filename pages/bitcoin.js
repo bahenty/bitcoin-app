@@ -60,7 +60,7 @@ class App extends Component {
                     <div className="titlebar">
                         <div className="title">
                             <div>Bitcoin Price</div>
-                            <div>
+                            <div className="duration">
                                 <small>last 30 days</small>
                             </div>
                         </div>
@@ -100,8 +100,9 @@ class App extends Component {
                         align-items: center;
                         font-family: arial;
                     }
-                    .title {
-                        
+                    .duration {
+                        color: #6086d6;
+                        font-size: 14px;
                     }
                     .prices {
                         align-items: flex-end;
