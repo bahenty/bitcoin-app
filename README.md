@@ -1,4 +1,4 @@
-# Bitcoin live price from CoinDesk Bitcoin Price index
+# Bitcoin historical BPI data from CoinDesk Bitcoin Price index
 
 > ### React.js + Next.js
 
