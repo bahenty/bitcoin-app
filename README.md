@@ -9,4 +9,4 @@
 ```npm install```
 
 ## Run the project
-```npm run start``` :rocket
+```npm run start``` :rocket:
