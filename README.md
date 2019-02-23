@@ -6,7 +6,7 @@
 
 
 ## Install dependencies
-```npm install``` :package:
+:package: ```npm install```
 
 ## Run the project
-```npm run start``` :rocket:
+:rocket: ```npm run start```
